@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Zichao Wendy Di 
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Assistant Computational Scientist
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Mathematics and Computer Science Division 
+        Argonne National Laboratory
+  url: "https://www.anl.gov/mcs"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include multiscale optimization and multimodal data analysis.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Nonlinear Optimization
+- Multigrid Method 
+- Inverse Problem
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Applied Mathematics 
+    institution: George Mason University
+    year: 2013
+  - course: BSc in Applied Mathematics 
+    institution: Dalian University of Technology, China
     year: 2008
 
 # Social/Academic Networking
@@ -45,15 +42,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=DBMfHw4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ZichaoDi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -61,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "wendydi@anl.gov"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -69,7 +66,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research comprises the development of mathematical models and efficient
+optimization methods to tackle challenging applications arising from real-life
+phenomena. I have worked on a generalization of multigrid methods for solving
+optimization problems ranging from vector quantization, optimal control to
+inverse problems. Another particular interest is information integration and
+multimodal data analysis especially from tomographic data sources.
